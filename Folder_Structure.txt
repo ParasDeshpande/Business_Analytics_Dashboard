@@ -1,0 +1,15 @@
+business_dashboard/
+│
+├── app.py                    # Streamlit frontend
+├── api/
+│   └── main.py               # FastAPI backend
+├── models/                   # Saved ML models
+│   ├── churn_model.pkl
+│   ├── sales_model.pkl
+│   └── sentiment_model.pkl
+├── data/                     # Raw data files (CSV)
+├── requirements.txt          # All Python dependencies
+└── train_models/             # Scripts to train models
+    ├── train_churn.py
+    ├── train_sales.py
+    └── train_sentiment.py
