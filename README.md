@@ -37,7 +37,8 @@
 
 ## 🌐 Live App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://businessanalyticsdashboard1.streamlit.app/])
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://businessanalyticsdashboard1.streamlit.app/)
+
 
 ---
 
