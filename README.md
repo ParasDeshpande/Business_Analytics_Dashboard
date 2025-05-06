@@ -35,11 +35,9 @@
 
 ---
 
-## 📸 Preview
+## 🌐 Live App
 
-<p align="center">
-  <img src="https://your-image-link-here.png" width="600" alt="Dashboard Preview" />
-</p>
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://businessanalyticsdashboard1.streamlit.app/])
 
 ---
 
